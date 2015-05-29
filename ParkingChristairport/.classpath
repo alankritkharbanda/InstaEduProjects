@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/joda-time-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/joda-money-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/jcalendar-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/jcalendar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/org.freixas.jcalendar_1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/jcalendar (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alankrit/Downloads/jcalendar-1.4.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

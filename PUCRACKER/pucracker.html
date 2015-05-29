@@ -1,0 +1,33 @@
+<script>
+
+var rows = document.getElementsByTagName("table")[0].rows;
+var last = rows[0];
+var cell = last.cells[0];
+console.log(last)
+last.childNodes[0];
+var lastitem=last.childNodes[0];
+var temp=["banana"]
+var i=0;
+while (lastitem!=last.childNodes[i]){
+
+temp.unshift(lastitem);
+lastitem=last.childNodes[i];
+i=i+1;
+
+}
+var j=0;
+while(j<temp.length)
+{
+console.log(temp[j]);
+j=j+1;
+
+}
+
+
+
+
+
+
+
+
+</script>

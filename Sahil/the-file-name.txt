@@ -1,0 +1,12 @@
+INFO: Reading file took 217 ms
+INFO: 3416 words read.
+Processing using Sorted Linked List:
+INFO: Creating index took 212 ms.
+INFO: 1176 words stored in index.
+INFO: Pruning index took 1 ms.
+INFO: 48 words remaining after pruning.
+Processing using Recursive BST
+INFO: Creating index took 12986633 ms 
+INFO: 1176 words stored in index.
+INFO: Pruning index took 591678 ms.
+INFO: 48 words remaining after pruning.
